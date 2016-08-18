@@ -1,6 +1,6 @@
 # TGVelo quality system presentation
 
-Presentation made for the WBikeC conference in Ghent, 9-10 june 2016.
+Presentation made for the event on eurobike 2016.
 
 ---
 Based on shower (https://github.com/shower/shower)
