@@ -43,6 +43,9 @@ a {
     color: black;
 }
 
+li.future {
+    color: lightgray;
+}
 /*.slide {
     padding: 8%;
 }*/
